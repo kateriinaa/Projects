@@ -1,6 +1,6 @@
 # Projects
 
-|Project (link)|Description|Stack|
+|Project|Description|Stack|
 |:------:|:---:|:-----------:|
 |[The Research of apartments](yandex.project2.ipynb)|EDA, building charts, determination of market value of apartments|python, pandas, numpy, matplotlib|
 |[The determination of optimal rate for telecom company](yandex.project3.ipynb)|Data preprocessing, EDA, hypothesis test|python, pandas, numpy, matplotlib, scipy|
